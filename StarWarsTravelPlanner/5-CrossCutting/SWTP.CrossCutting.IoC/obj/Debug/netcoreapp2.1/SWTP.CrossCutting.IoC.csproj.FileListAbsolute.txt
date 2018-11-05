@@ -1,0 +1,16 @@
+C:\projetos\Kneat Software\StarWarsTravelPlanner\5-CrossCutting\SWTP.CrossCutting.IoC\bin\Debug\netcoreapp2.1\SWTP.CrossCutting.IoC.deps.json
+C:\projetos\Kneat Software\StarWarsTravelPlanner\5-CrossCutting\SWTP.CrossCutting.IoC\bin\Debug\netcoreapp2.1\SWTP.CrossCutting.IoC.dll
+C:\projetos\Kneat Software\StarWarsTravelPlanner\5-CrossCutting\SWTP.CrossCutting.IoC\obj\Debug\netcoreapp2.1\SWTP.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\projetos\Kneat Software\StarWarsTravelPlanner\5-CrossCutting\SWTP.CrossCutting.IoC\obj\Debug\netcoreapp2.1\SWTP.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\projetos\Kneat Software\StarWarsTravelPlanner\5-CrossCutting\SWTP.CrossCutting.IoC\obj\Debug\netcoreapp2.1\SWTP.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\projetos\Kneat Software\StarWarsTravelPlanner\5-CrossCutting\SWTP.CrossCutting.IoC\obj\Debug\netcoreapp2.1\SWTP.CrossCutting.IoC.AssemblyInfo.cs
+C:\projetos\Kneat Software\StarWarsTravelPlanner\5-CrossCutting\SWTP.CrossCutting.IoC\bin\Debug\netcoreapp2.1\SWTP.CrossCutting.IoC.pdb
+C:\projetos\Kneat Software\StarWarsTravelPlanner\5-CrossCutting\SWTP.CrossCutting.IoC\bin\Debug\netcoreapp2.1\SWTP.Application.dll
+C:\projetos\Kneat Software\StarWarsTravelPlanner\5-CrossCutting\SWTP.CrossCutting.IoC\bin\Debug\netcoreapp2.1\SWTP.Domain.dll
+C:\projetos\Kneat Software\StarWarsTravelPlanner\5-CrossCutting\SWTP.CrossCutting.IoC\bin\Debug\netcoreapp2.1\SWTP.Infra.dll
+C:\projetos\Kneat Software\StarWarsTravelPlanner\5-CrossCutting\SWTP.CrossCutting.IoC\bin\Debug\netcoreapp2.1\SWTP.Application.pdb
+C:\projetos\Kneat Software\StarWarsTravelPlanner\5-CrossCutting\SWTP.CrossCutting.IoC\bin\Debug\netcoreapp2.1\SWTP.Domain.pdb
+C:\projetos\Kneat Software\StarWarsTravelPlanner\5-CrossCutting\SWTP.CrossCutting.IoC\bin\Debug\netcoreapp2.1\SWTP.Infra.pdb
+C:\projetos\Kneat Software\StarWarsTravelPlanner\5-CrossCutting\SWTP.CrossCutting.IoC\obj\Debug\netcoreapp2.1\SWTP.CrossCutting.IoC.csproj.CopyComplete
+C:\projetos\Kneat Software\StarWarsTravelPlanner\5-CrossCutting\SWTP.CrossCutting.IoC\obj\Debug\netcoreapp2.1\SWTP.CrossCutting.IoC.dll
+C:\projetos\Kneat Software\StarWarsTravelPlanner\5-CrossCutting\SWTP.CrossCutting.IoC\obj\Debug\netcoreapp2.1\SWTP.CrossCutting.IoC.pdb

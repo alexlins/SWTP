@@ -1,0 +1,920 @@
+[
+    {
+        "pilots": [],
+        "consumables": "unknown",
+        "cargo_capacity": "unknown",
+        "name": "AA-9 Coruscant freighter",
+        "url": "https://swapi.co/api/starships/47/",
+        "created": "2014-12-20T17:24:23.509000Z",
+        "edited": "2014-12-22T17:35:45.135987Z",
+        "crew": "unknown",
+        "max_atmosphering_speed": "unknown",
+        "passengers": "30000",
+        "vehicle_class": null,
+        "cost_in_credits": "unknown",
+        "model": "Botajef AA-9 Freighter-Liner",
+        "films": [
+            "https://swapi.co/api/films/5/"
+        ],
+        "manufacturer": "Botajef Shipyards",
+        "length": "390",
+        "starship_class": "freighter",
+        "hyperdrive_rating": "unknown",
+        "mglt": "unknown"
+    },
+    {
+        "pilots": [
+            "https://swapi.co/api/people/10/",
+            "https://swapi.co/api/people/58/"
+        ],
+        "consumables": "7 days",
+        "cargo_capacity": "60",
+        "name": "Jedi starfighter",
+        "url": "https://swapi.co/api/starships/48/",
+        "created": "2014-12-20T17:35:23.906000Z",
+        "edited": "2014-12-22T17:35:45.147746Z",
+        "crew": "1",
+        "max_atmosphering_speed": "1150",
+        "passengers": "0",
+        "vehicle_class": null,
+        "cost_in_credits": "180000",
+        "model": "Delta-7 Aethersprite-class interceptor",
+        "films": [
+            "https://swapi.co/api/films/5/",
+            "https://swapi.co/api/films/6/"
+        ],
+        "manufacturer": "Kuat Systems Engineering",
+        "length": "8",
+        "starship_class": "Starfighter",
+        "hyperdrive_rating": "1.0",
+        "mglt": "unknown"
+    },
+    {
+        "pilots": [
+            "https://swapi.co/api/people/35/"
+        ],
+        "consumables": "unknown",
+        "cargo_capacity": "unknown",
+        "name": "H-type Nubian yacht",
+        "url": "https://swapi.co/api/starships/49/",
+        "created": "2014-12-20T17:46:46.847000Z",
+        "edited": "2014-12-22T17:35:45.158969Z",
+        "crew": "4",
+        "max_atmosphering_speed": "8000",
+        "passengers": "unknown",
+        "vehicle_class": null,
+        "cost_in_credits": "unknown",
+        "model": "H-type Nubian yacht",
+        "films": [
+            "https://swapi.co/api/films/5/"
+        ],
+        "manufacturer": "Theed Palace Space Vessel Engineering Corps",
+        "length": "47.9",
+        "starship_class": "yacht",
+        "hyperdrive_rating": "0.9",
+        "mglt": "unknown"
+    },
+    {
+        "pilots": [],
+        "consumables": "2 years",
+        "cargo_capacity": "36000000",
+        "name": "Star Destroyer",
+        "url": "https://swapi.co/api/starships/3/",
+        "created": "2014-12-10T15:08:19.848000Z",
+        "edited": "2014-12-22T17:35:44.410941Z",
+        "crew": "47060",
+        "max_atmosphering_speed": "975",
+        "passengers": "0",
+        "vehicle_class": null,
+        "cost_in_credits": "150000000",
+        "model": "Imperial I-class Star Destroyer",
+        "films": [
+            "https://swapi.co/api/films/2/",
+            "https://swapi.co/api/films/3/",
+            "https://swapi.co/api/films/1/"
+        ],
+        "manufacturer": "Kuat Drive Yards",
+        "length": "1,600",
+        "starship_class": "Star Destroyer",
+        "hyperdrive_rating": "2.0",
+        "mglt": "60"
+    },
+    {
+        "pilots": [
+            "https://swapi.co/api/people/10/",
+            "https://swapi.co/api/people/11/"
+        ],
+        "consumables": "4 years",
+        "cargo_capacity": "50000000",
+        "name": "Trade Federation cruiser",
+        "url": "https://swapi.co/api/starships/59/",
+        "created": "2014-12-20T19:40:21.902000Z",
+        "edited": "2014-12-22T17:35:45.195165Z",
+        "crew": "600",
+        "max_atmosphering_speed": "1050",
+        "passengers": "48247",
+        "vehicle_class": null,
+        "cost_in_credits": "125000000",
+        "model": "Providence-class carrier/destroyer",
+        "films": [
+            "https://swapi.co/api/films/6/"
+        ],
+        "manufacturer": "Rendili StarDrive, Free Dac Volunteers Engineering corps.",
+        "length": "1088",
+        "starship_class": "capital ship",
+        "hyperdrive_rating": "1.5",
+        "mglt": "unknown"
+    },
+    {
+        "pilots": [],
+        "consumables": "56 days",
+        "cargo_capacity": "50000",
+        "name": "Theta-class T-2c shuttle",
+        "url": "https://swapi.co/api/starships/61/",
+        "created": "2014-12-20T19:48:40.409000Z",
+        "edited": "2014-12-22T17:35:45.208584Z",
+        "crew": "5",
+        "max_atmosphering_speed": "2000",
+        "passengers": "16",
+        "vehicle_class": null,
+        "cost_in_credits": "1000000",
+        "model": "Theta-class T-2c shuttle",
+        "films": [
+            "https://swapi.co/api/films/6/"
+        ],
+        "manufacturer": "Cygnus Spaceworks",
+        "length": "18.5",
+        "starship_class": "transport",
+        "hyperdrive_rating": "1.0",
+        "mglt": "unknown"
+    },
+    {
+        "pilots": [
+            "https://swapi.co/api/people/86/"
+        ],
+        "consumables": "unknown",
+        "cargo_capacity": "unknown",
+        "name": "T-70 X-wing fighter",
+        "url": "https://swapi.co/api/starships/77/",
+        "created": "2015-04-17T06:58:50.614475Z",
+        "edited": "2015-04-17T06:58:50.614528Z",
+        "crew": "1",
+        "max_atmosphering_speed": "unknown",
+        "passengers": "unknown",
+        "vehicle_class": null,
+        "cost_in_credits": "unknown",
+        "model": "T-70 X-wing fighter",
+        "films": [
+            "https://swapi.co/api/films/7/"
+        ],
+        "manufacturer": "Incom",
+        "length": "unknown",
+        "starship_class": "fighter",
+        "hyperdrive_rating": "unknown",
+        "mglt": "unknown"
+    },
+    {
+        "pilots": [],
+        "consumables": "6 months",
+        "cargo_capacity": "19000000",
+        "name": "Rebel transport",
+        "url": "https://swapi.co/api/starships/17/",
+        "created": "2014-12-15T12:34:52.264000Z",
+        "edited": "2014-12-22T17:35:44.680838Z",
+        "crew": "6",
+        "max_atmosphering_speed": "650",
+        "passengers": "90",
+        "vehicle_class": null,
+        "cost_in_credits": "unknown",
+        "model": "GR-75 medium transport",
+        "films": [
+            "https://swapi.co/api/films/2/",
+            "https://swapi.co/api/films/3/"
+        ],
+        "manufacturer": "Gallofree Yards, Inc.",
+        "length": "90",
+        "starship_class": "Medium transport",
+        "hyperdrive_rating": "4.0",
+        "mglt": "20"
+    },
+    {
+        "pilots": [],
+        "consumables": "500 days",
+        "cargo_capacity": "4000000000",
+        "name": "Droid control ship",
+        "url": "https://swapi.co/api/starships/32/",
+        "created": "2014-12-19T17:04:06.323000Z",
+        "edited": "2014-12-22T17:35:45.042900Z",
+        "crew": "175",
+        "max_atmosphering_speed": "n/a",
+        "passengers": "139000",
+        "vehicle_class": null,
+        "cost_in_credits": "unknown",
+        "model": "Lucrehulk-class Droid Control Ship",
+        "films": [
+            "https://swapi.co/api/films/5/",
+            "https://swapi.co/api/films/4/",
+            "https://swapi.co/api/films/6/"
+        ],
+        "manufacturer": "Hoersch-Kessel Drive, Inc.",
+        "length": "3170",
+        "starship_class": "Droid control ship",
+        "hyperdrive_rating": "2.0",
+        "mglt": "unknown"
+    },
+    {
+        "pilots": [],
+        "consumables": "7 days",
+        "cargo_capacity": "240",
+        "name": "Solar Sailer",
+        "url": "https://swapi.co/api/starships/58/",
+        "created": "2014-12-20T18:37:56.969000Z",
+        "edited": "2014-12-22T17:35:45.183075Z",
+        "crew": "3",
+        "max_atmosphering_speed": "1600",
+        "passengers": "11",
+        "vehicle_class": null,
+        "cost_in_credits": "35700",
+        "model": "Punworcca 116-class interstellar sloop",
+        "films": [
+            "https://swapi.co/api/films/5/"
+        ],
+        "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
+        "length": "15.2",
+        "starship_class": "yacht",
+        "hyperdrive_rating": "1.5",
+        "mglt": "unknown"
+    },
+    {
+        "pilots": [],
+        "consumables": "2 years",
+        "cargo_capacity": "20000000",
+        "name": "Republic attack cruiser",
+        "url": "https://swapi.co/api/starships/63/",
+        "created": "2014-12-20T19:52:56.232000Z",
+        "edited": "2014-12-22T17:35:45.224540Z",
+        "crew": "7400",
+        "max_atmosphering_speed": "975",
+        "passengers": "2000",
+        "vehicle_class": null,
+        "cost_in_credits": "59000000",
+        "model": "Senator-class Star Destroyer",
+        "films": [
+            "https://swapi.co/api/films/6/"
+        ],
+        "manufacturer": "Kuat Drive Yards, Allanteen Six shipyards",
+        "length": "1137",
+        "starship_class": "star destroyer",
+        "hyperdrive_rating": "1.0",
+        "mglt": "unknown"
+    },
+    {
+        "pilots": [
+            "https://swapi.co/api/people/10/",
+            "https://swapi.co/api/people/35/"
+        ],
+        "consumables": "unknown",
+        "cargo_capacity": "unknown",
+        "name": "Naboo star skiff",
+        "url": "https://swapi.co/api/starships/64/",
+        "created": "2014-12-20T19:55:15.396000Z",
+        "edited": "2014-12-22T17:35:45.258859Z",
+        "crew": "3",
+        "max_atmosphering_speed": "1050",
+        "passengers": "3",
+        "vehicle_class": null,
+        "cost_in_credits": "unknown",
+        "model": "J-type star skiff",
+        "films": [
+            "https://swapi.co/api/films/6/"
+        ],
+        "manufacturer": "Theed Palace Space Vessel Engineering Corps/Nubia Star Drives, Incorporated",
+        "length": "29.2",
+        "starship_class": "yacht",
+        "hyperdrive_rating": "0.5",
+        "mglt": "unknown"
+    },
+    {
+        "pilots": [
+            "https://swapi.co/api/people/10/",
+            "https://swapi.co/api/people/11/"
+        ],
+        "consumables": "2 days",
+        "cargo_capacity": "60",
+        "name": "Jedi Interceptor",
+        "url": "https://swapi.co/api/starships/65/",
+        "created": "2014-12-20T19:56:57.468000Z",
+        "edited": "2014-12-22T17:35:45.272349Z",
+        "crew": "1",
+        "max_atmosphering_speed": "1500",
+        "passengers": "0",
+        "vehicle_class": null,
+        "cost_in_credits": "320000",
+        "model": "Eta-2 Actis-class light interceptor",
+        "films": [
+            "https://swapi.co/api/films/6/"
+        ],
+        "manufacturer": "Kuat Systems Engineering",
+        "length": "5.47",
+        "starship_class": "starfighter",
+        "hyperdrive_rating": "1.0",
+        "mglt": "unknown"
+    },
+    {
+        "pilots": [],
+        "consumables": "5 days",
+        "cargo_capacity": "110",
+        "name": "arc-170",
+        "url": "https://swapi.co/api/starships/66/",
+        "created": "2014-12-20T20:03:48.603000Z",
+        "edited": "2014-12-22T17:35:45.287214Z",
+        "crew": "3",
+        "max_atmosphering_speed": "1000",
+        "passengers": "0",
+        "vehicle_class": null,
+        "cost_in_credits": "155000",
+        "model": "Aggressive Reconnaissance-170 starfighte",
+        "films": [
+            "https://swapi.co/api/films/6/"
+        ],
+        "manufacturer": "Incom Corporation, Subpro Corporation",
+        "length": "14.5",
+        "starship_class": "starfighter",
+        "hyperdrive_rating": "1.0",
+        "mglt": "100"
+    },
+    {
+        "pilots": [
+            "https://swapi.co/api/people/10/",
+            "https://swapi.co/api/people/79/"
+        ],
+        "consumables": "7 days",
+        "cargo_capacity": "140",
+        "name": "Belbullab-22 starfighter",
+        "url": "https://swapi.co/api/starships/74/",
+        "created": "2014-12-20T20:38:05.031000Z",
+        "edited": "2014-12-22T17:35:45.381900Z",
+        "crew": "1",
+        "max_atmosphering_speed": "1100",
+        "passengers": "0",
+        "vehicle_class": null,
+        "cost_in_credits": "168000",
+        "model": "Belbullab-22 starfighter",
+        "films": [
+            "https://swapi.co/api/films/6/"
+        ],
+        "manufacturer": "Feethan Ottraw Scalable Assemblies",
+        "length": "6.71",
+        "starship_class": "starfighter",
+        "hyperdrive_rating": "6",
+        "mglt": "unknown"
+    },
+    {
+        "pilots": [],
+        "consumables": "15 hours",
+        "cargo_capacity": "60",
+        "name": "V-wing",
+        "url": "https://swapi.co/api/starships/75/",
+        "created": "2014-12-20T20:43:04.349000Z",
+        "edited": "2014-12-22T17:35:45.396711Z",
+        "crew": "1",
+        "max_atmosphering_speed": "1050",
+        "passengers": "0",
+        "vehicle_class": null,
+        "cost_in_credits": "102500",
+        "model": "Alpha-3 Nimbus-class V-wing starfighter",
+        "films": [
+            "https://swapi.co/api/films/6/"
+        ],
+        "manufacturer": "Kuat Systems Engineering",
+        "length": "7.9",
+        "starship_class": "starfighter",
+        "hyperdrive_rating": "1.0",
+        "mglt": "unknown"
+    },
+    {
+        "pilots": [],
+        "consumables": "1 year",
+        "cargo_capacity": "3000000",
+        "name": "CR90 corvette",
+        "url": "https://swapi.co/api/starships/2/",
+        "created": "2014-12-10T14:20:33.369000Z",
+        "edited": "2014-12-22T17:35:45.408368Z",
+        "crew": "165",
+        "max_atmosphering_speed": "950",
+        "passengers": "600",
+        "vehicle_class": null,
+        "cost_in_credits": "3500000",
+        "model": "CR90 corvette",
+        "films": [
+            "https://swapi.co/api/films/6/",
+            "https://swapi.co/api/films/3/",
+            "https://swapi.co/api/films/1/"
+        ],
+        "manufacturer": "Corellian Engineering Corporation",
+        "length": "150",
+        "starship_class": "corvette",
+        "hyperdrive_rating": "2.0",
+        "mglt": "60"
+    },
+    {
+        "pilots": [],
+        "consumables": "1 month",
+        "cargo_capacity": "180000",
+        "name": "Sentinel-class landing craft",
+        "url": "https://swapi.co/api/starships/5/",
+        "created": "2014-12-10T15:48:00.586000Z",
+        "edited": "2014-12-22T17:35:44.431407Z",
+        "crew": "5",
+        "max_atmosphering_speed": "1000",
+        "passengers": "75",
+        "vehicle_class": null,
+        "cost_in_credits": "240000",
+        "model": "Sentinel-class landing craft",
+        "films": [
+            "https://swapi.co/api/films/1/"
+        ],
+        "manufacturer": "Sienar Fleet Systems, Cyngus Spaceworks",
+        "length": "38",
+        "starship_class": "landing craft",
+        "hyperdrive_rating": "1.0",
+        "mglt": "70"
+    },
+    {
+        "pilots": [],
+        "consumables": "3 years",
+        "cargo_capacity": "1000000000000",
+        "name": "Death Star",
+        "url": "https://swapi.co/api/starships/9/",
+        "created": "2014-12-10T16:36:50.509000Z",
+        "edited": "2014-12-22T17:35:44.452589Z",
+        "crew": "342953",
+        "max_atmosphering_speed": "n/a",
+        "passengers": "843342",
+        "vehicle_class": null,
+        "cost_in_credits": "1000000000000",
+        "model": "DS-1 Orbital Battle Station",
+        "films": [
+            "https://swapi.co/api/films/1/"
+        ],
+        "manufacturer": "Imperial Department of Military Research, Sienar Fleet Systems",
+        "length": "120000",
+        "starship_class": "Deep Space Mobile Battlestation",
+        "hyperdrive_rating": "4.0",
+        "mglt": "10"
+    },
+    {
+        "pilots": [
+            "https://swapi.co/api/people/13/",
+            "https://swapi.co/api/people/14/",
+            "https://swapi.co/api/people/25/",
+            "https://swapi.co/api/people/31/"
+        ],
+        "consumables": "2 months",
+        "cargo_capacity": "100000",
+        "name": "Millennium Falcon",
+        "url": "https://swapi.co/api/starships/10/",
+        "created": "2014-12-10T16:59:45.094000Z",
+        "edited": "2014-12-22T17:35:44.464156Z",
+        "crew": "4",
+        "max_atmosphering_speed": "1050",
+        "passengers": "6",
+        "vehicle_class": null,
+        "cost_in_credits": "100000",
+        "model": "YT-1300 light freighter",
+        "films": [
+            "https://swapi.co/api/films/2/",
+            "https://swapi.co/api/films/7/",
+            "https://swapi.co/api/films/3/",
+            "https://swapi.co/api/films/1/"
+        ],
+        "manufacturer": "Corellian Engineering Corporation",
+        "length": "34.37",
+        "starship_class": "Light freighter",
+        "hyperdrive_rating": "0.5",
+        "mglt": "75"
+    },
+    {
+        "pilots": [],
+        "consumables": "1 week",
+        "cargo_capacity": "110",
+        "name": "Y-wing",
+        "url": "https://swapi.co/api/starships/11/",
+        "created": "2014-12-12T11:00:39.817000Z",
+        "edited": "2014-12-22T17:35:44.479706Z",
+        "crew": "2",
+        "max_atmosphering_speed": "1000km",
+        "passengers": "0",
+        "vehicle_class": null,
+        "cost_in_credits": "134999",
+        "model": "BTL Y-wing",
+        "films": [
+            "https://swapi.co/api/films/2/",
+            "https://swapi.co/api/films/3/",
+            "https://swapi.co/api/films/1/"
+        ],
+        "manufacturer": "Koensayr Manufacturing",
+        "length": "14",
+        "starship_class": "assault starfighter",
+        "hyperdrive_rating": "1.0",
+        "mglt": "80"
+    },
+    {
+        "pilots": [
+            "https://swapi.co/api/people/1/",
+            "https://swapi.co/api/people/9/",
+            "https://swapi.co/api/people/18/",
+            "https://swapi.co/api/people/19/"
+        ],
+        "consumables": "1 week",
+        "cargo_capacity": "110",
+        "name": "X-wing",
+        "url": "https://swapi.co/api/starships/12/",
+        "created": "2014-12-12T11:19:05.340000Z",
+        "edited": "2014-12-22T17:35:44.491233Z",
+        "crew": "1",
+        "max_atmosphering_speed": "1050",
+        "passengers": "0",
+        "vehicle_class": null,
+        "cost_in_credits": "149999",
+        "model": "T-65 X-wing",
+        "films": [
+            "https://swapi.co/api/films/2/",
+            "https://swapi.co/api/films/3/",
+            "https://swapi.co/api/films/1/"
+        ],
+        "manufacturer": "Incom Corporation",
+        "length": "12.5",
+        "starship_class": "Starfighter",
+        "hyperdrive_rating": "1.0",
+        "mglt": "100"
+    },
+    {
+        "pilots": [
+            "https://swapi.co/api/people/4/"
+        ],
+        "consumables": "5 days",
+        "cargo_capacity": "150",
+        "name": "TIE Advanced x1",
+        "url": "https://swapi.co/api/starships/13/",
+        "created": "2014-12-12T11:21:32.991000Z",
+        "edited": "2014-12-22T17:35:44.549047Z",
+        "crew": "1",
+        "max_atmosphering_speed": "1200",
+        "passengers": "0",
+        "vehicle_class": null,
+        "cost_in_credits": "unknown",
+        "model": "Twin Ion Engine Advanced x1",
+        "films": [
+            "https://swapi.co/api/films/1/"
+        ],
+        "manufacturer": "Sienar Fleet Systems",
+        "length": "9.2",
+        "starship_class": "Starfighter",
+        "hyperdrive_rating": "1.0",
+        "mglt": "105"
+    },
+    {
+        "pilots": [
+            "https://swapi.co/api/people/22/"
+        ],
+        "consumables": "1 month",
+        "cargo_capacity": "70000",
+        "name": "Slave 1",
+        "url": "https://swapi.co/api/starships/21/",
+        "created": "2014-12-15T13:00:56.332000Z",
+        "edited": "2014-12-22T17:35:44.716273Z",
+        "crew": "1",
+        "max_atmosphering_speed": "1000",
+        "passengers": "6",
+        "vehicle_class": null,
+        "cost_in_credits": "unknown",
+        "model": "Firespray-31-class patrol and attack",
+        "films": [
+            "https://swapi.co/api/films/2/",
+            "https://swapi.co/api/films/5/"
+        ],
+        "manufacturer": "Kuat Systems Engineering",
+        "length": "21.5",
+        "starship_class": "Patrol craft",
+        "hyperdrive_rating": "3.0",
+        "mglt": "70"
+    },
+    {
+        "pilots": [
+            "https://swapi.co/api/people/1/",
+            "https://swapi.co/api/people/13/",
+            "https://swapi.co/api/people/14/"
+        ],
+        "consumables": "2 months",
+        "cargo_capacity": "80000",
+        "name": "Imperial shuttle",
+        "url": "https://swapi.co/api/starships/22/",
+        "created": "2014-12-15T13:04:47.235000Z",
+        "edited": "2014-12-22T17:35:44.795405Z",
+        "crew": "6",
+        "max_atmosphering_speed": "850",
+        "passengers": "20",
+        "vehicle_class": null,
+        "cost_in_credits": "240000",
+        "model": "Lambda-class T-4a shuttle",
+        "films": [
+            "https://swapi.co/api/films/2/",
+            "https://swapi.co/api/films/3/"
+        ],
+        "manufacturer": "Sienar Fleet Systems",
+        "length": "20",
+        "starship_class": "Armed government transport",
+        "hyperdrive_rating": "1.0",
+        "mglt": "50"
+    },
+    {
+        "pilots": [],
+        "consumables": "2 years",
+        "cargo_capacity": "unknown",
+        "name": "Calamari Cruiser",
+        "url": "https://swapi.co/api/starships/27/",
+        "created": "2014-12-18T10:54:57.804000Z",
+        "edited": "2014-12-22T17:35:44.957852Z",
+        "crew": "5400",
+        "max_atmosphering_speed": "n/a",
+        "passengers": "1200",
+        "vehicle_class": null,
+        "cost_in_credits": "104000000",
+        "model": "MC80 Liberty type Star Cruiser",
+        "films": [
+            "https://swapi.co/api/films/3/"
+        ],
+        "manufacturer": "Mon Calamari shipyards",
+        "length": "1200",
+        "starship_class": "Star Cruiser",
+        "hyperdrive_rating": "1.0",
+        "mglt": "60"
+    },
+    {
+        "pilots": [
+            "https://swapi.co/api/people/29/"
+        ],
+        "consumables": "1 week",
+        "cargo_capacity": "40",
+        "name": "A-wing",
+        "url": "https://swapi.co/api/starships/28/",
+        "created": "2014-12-18T11:16:34.542000Z",
+        "edited": "2014-12-22T17:35:44.978754Z",
+        "crew": "1",
+        "max_atmosphering_speed": "1300",
+        "passengers": "0",
+        "vehicle_class": null,
+        "cost_in_credits": "175000",
+        "model": "RZ-1 A-wing Interceptor",
+        "films": [
+            "https://swapi.co/api/films/3/"
+        ],
+        "manufacturer": "Alliance Underground Engineering, Incom Corporation",
+        "length": "9.6",
+        "starship_class": "Starfighter",
+        "hyperdrive_rating": "1.0",
+        "mglt": "120"
+    },
+    {
+        "pilots": [],
+        "consumables": "1 week",
+        "cargo_capacity": "45",
+        "name": "B-wing",
+        "url": "https://swapi.co/api/starships/29/",
+        "created": "2014-12-18T11:18:04.763000Z",
+        "edited": "2014-12-22T17:35:45.011193Z",
+        "crew": "1",
+        "max_atmosphering_speed": "950",
+        "passengers": "0",
+        "vehicle_class": null,
+        "cost_in_credits": "220000",
+        "model": "A/SF-01 B-wing starfighter",
+        "films": [
+            "https://swapi.co/api/films/3/"
+        ],
+        "manufacturer": "Slayn & Korpil",
+        "length": "16.9",
+        "starship_class": "Assault Starfighter",
+        "hyperdrive_rating": "2.0",
+        "mglt": "91"
+    },
+    {
+        "pilots": [],
+        "consumables": "unknown",
+        "cargo_capacity": "unknown",
+        "name": "Republic Cruiser",
+        "url": "https://swapi.co/api/starships/31/",
+        "created": "2014-12-19T17:01:31.488000Z",
+        "edited": "2014-12-22T17:35:45.027308Z",
+        "crew": "9",
+        "max_atmosphering_speed": "900",
+        "passengers": "16",
+        "vehicle_class": null,
+        "cost_in_credits": "unknown",
+        "model": "Consular-class cruiser",
+        "films": [
+            "https://swapi.co/api/films/4/"
+        ],
+        "manufacturer": "Corellian Engineering Corporation",
+        "length": "115",
+        "starship_class": "Space cruiser",
+        "hyperdrive_rating": "2.0",
+        "mglt": "unknown"
+    },
+    {
+        "pilots": [
+            "https://swapi.co/api/people/11/",
+            "https://swapi.co/api/people/60/",
+            "https://swapi.co/api/people/35/"
+        ],
+        "consumables": "7 days",
+        "cargo_capacity": "65",
+        "name": "Naboo fighter",
+        "url": "https://swapi.co/api/starships/39/",
+        "created": "2014-12-19T17:39:17.582000Z",
+        "edited": "2014-12-22T17:35:45.079452Z",
+        "crew": "1",
+        "max_atmosphering_speed": "1100",
+        "passengers": "0",
+        "vehicle_class": null,
+        "cost_in_credits": "200000",
+        "model": "N-1 starfighter",
+        "films": [
+            "https://swapi.co/api/films/5/",
+            "https://swapi.co/api/films/4/"
+        ],
+        "manufacturer": "Theed Palace Space Vessel Engineering Corps",
+        "length": "11",
+        "starship_class": "Starfighter",
+        "hyperdrive_rating": "1.0",
+        "mglt": "unknown"
+    },
+    {
+        "pilots": [
+            "https://swapi.co/api/people/39/"
+        ],
+        "consumables": "unknown",
+        "cargo_capacity": "unknown",
+        "name": "Naboo Royal Starship",
+        "url": "https://swapi.co/api/starships/40/",
+        "created": "2014-12-19T17:45:03.506000Z",
+        "edited": "2014-12-22T17:35:45.091925Z",
+        "crew": "8",
+        "max_atmosphering_speed": "920",
+        "passengers": "unknown",
+        "vehicle_class": null,
+        "cost_in_credits": "unknown",
+        "model": "J-type 327 Nubian royal starship",
+        "films": [
+            "https://swapi.co/api/films/4/"
+        ],
+        "manufacturer": "Theed Palace Space Vessel Engineering Corps, Nubia Star Drives",
+        "length": "76",
+        "starship_class": "yacht",
+        "hyperdrive_rating": "1.8",
+        "mglt": "unknown"
+    },
+    {
+        "pilots": [
+            "https://swapi.co/api/people/44/"
+        ],
+        "consumables": "30 days",
+        "cargo_capacity": "2500000",
+        "name": "Scimitar",
+        "url": "https://swapi.co/api/starships/41/",
+        "created": "2014-12-20T09:39:56.116000Z",
+        "edited": "2014-12-22T17:35:45.105522Z",
+        "crew": "1",
+        "max_atmosphering_speed": "1180",
+        "passengers": "6",
+        "vehicle_class": null,
+        "cost_in_credits": "55000000",
+        "model": "Star Courier",
+        "films": [
+            "https://swapi.co/api/films/4/"
+        ],
+        "manufacturer": "Republic Sienar Systems",
+        "length": "26.5",
+        "starship_class": "Space Transport",
+        "hyperdrive_rating": "1.5",
+        "mglt": "unknown"
+    },
+    {
+        "pilots": [],
+        "consumables": "1 year",
+        "cargo_capacity": "unknown",
+        "name": "J-type diplomatic barge",
+        "url": "https://swapi.co/api/starships/43/",
+        "created": "2014-12-20T11:05:51.237000Z",
+        "edited": "2014-12-22T17:35:45.124386Z",
+        "crew": "5",
+        "max_atmosphering_speed": "2000",
+        "passengers": "10",
+        "vehicle_class": null,
+        "cost_in_credits": "2000000",
+        "model": "J-type diplomatic barge",
+        "films": [
+            "https://swapi.co/api/films/5/"
+        ],
+        "manufacturer": "Theed Palace Space Vessel Engineering Corps, Nubia Star Drives",
+        "length": "39",
+        "starship_class": "Diplomatic barge",
+        "hyperdrive_rating": "0.7",
+        "mglt": "unknown"
+    },
+    {
+        "pilots": [],
+        "consumables": "2 years",
+        "cargo_capacity": "40000000",
+        "name": "Banking clan frigate",
+        "url": "https://swapi.co/api/starships/68/",
+        "created": "2014-12-20T20:07:11.538000Z",
+        "edited": "2017-04-19T10:53:32.700283Z",
+        "crew": "200",
+        "max_atmosphering_speed": "unknown",
+        "passengers": "unknown",
+        "vehicle_class": null,
+        "cost_in_credits": "57000000",
+        "model": "Munificent-class star frigate",
+        "films": [
+            "https://swapi.co/api/films/6/"
+        ],
+        "manufacturer": "Hoersch-Kessel Drive, Inc, Gwori Revolutionary Industries",
+        "length": "825",
+        "starship_class": "cruiser",
+        "hyperdrive_rating": "1.0",
+        "mglt": "unknown"
+    },
+    {
+        "pilots": [],
+        "consumables": "2 years",
+        "cargo_capacity": "11250000",
+        "name": "Republic Assault ship",
+        "url": "https://swapi.co/api/starships/52/",
+        "created": "2014-12-20T18:08:42.926000Z",
+        "edited": "2014-12-22T17:35:45.171653Z",
+        "crew": "700",
+        "max_atmosphering_speed": "unknown",
+        "passengers": "16000",
+        "vehicle_class": null,
+        "cost_in_credits": "unknown",
+        "model": "Acclamator I-class assault ship",
+        "films": [
+            "https://swapi.co/api/films/5/"
+        ],
+        "manufacturer": "Rothana Heavy Engineering",
+        "length": "752",
+        "starship_class": "assault ship",
+        "hyperdrive_rating": "0.6",
+        "mglt": "unknown"
+    },
+    {
+        "pilots": [],
+        "consumables": "6 years",
+        "cargo_capacity": "250000000",
+        "name": "Executor",
+        "url": "https://swapi.co/api/starships/15/",
+        "created": "2014-12-15T12:31:42.547000Z",
+        "edited": "2017-04-19T10:56:06.685592Z",
+        "crew": "279144",
+        "max_atmosphering_speed": "n/a",
+        "passengers": "38000",
+        "vehicle_class": null,
+        "cost_in_credits": "1143350000",
+        "model": "Executor-class star dreadnought",
+        "films": [
+            "https://swapi.co/api/films/2/",
+            "https://swapi.co/api/films/3/"
+        ],
+        "manufacturer": "Kuat Drive Yards, Fondor Shipyards",
+        "length": "19000",
+        "starship_class": "Star dreadnought",
+        "hyperdrive_rating": "2.0",
+        "mglt": "40"
+    },
+    {
+        "pilots": [],
+        "consumables": "2 years",
+        "cargo_capacity": "6000000",
+        "name": "EF76 Nebulon-B escort frigate",
+        "url": "https://swapi.co/api/starships/23/",
+        "created": "2014-12-15T13:06:30.813000Z",
+        "edited": "2014-12-22T17:35:44.848329Z",
+        "crew": "854",
+        "max_atmosphering_speed": "800",
+        "passengers": "75",
+        "vehicle_class": null,
+        "cost_in_credits": "8500000",
+        "model": "EF76 Nebulon-B escort frigate",
+        "films": [
+            "https://swapi.co/api/films/2/",
+            "https://swapi.co/api/films/3/"
+        ],
+        "manufacturer": "Kuat Drive Yards",
+        "length": "300",
+        "starship_class": "Escort ship",
+        "hyperdrive_rating": "2.0",
+        "mglt": "40"
+    }
+]

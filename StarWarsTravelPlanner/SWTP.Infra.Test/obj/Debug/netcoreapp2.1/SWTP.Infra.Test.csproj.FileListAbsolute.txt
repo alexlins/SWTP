@@ -1,0 +1,14 @@
+C:\projetos\Kneat Software\StarWarsTravelPlanner\SWTP.Infra.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\projetos\Kneat Software\StarWarsTravelPlanner\SWTP.Infra.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\projetos\Kneat Software\StarWarsTravelPlanner\SWTP.Infra.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\projetos\Kneat Software\StarWarsTravelPlanner\SWTP.Infra.Test\bin\Debug\netcoreapp2.1\SWTP.Infra.Test.deps.json
+C:\projetos\Kneat Software\StarWarsTravelPlanner\SWTP.Infra.Test\bin\Debug\netcoreapp2.1\SWTP.Infra.Test.runtimeconfig.json
+C:\projetos\Kneat Software\StarWarsTravelPlanner\SWTP.Infra.Test\bin\Debug\netcoreapp2.1\SWTP.Infra.Test.runtimeconfig.dev.json
+C:\projetos\Kneat Software\StarWarsTravelPlanner\SWTP.Infra.Test\bin\Debug\netcoreapp2.1\SWTP.Infra.Test.dll
+C:\projetos\Kneat Software\StarWarsTravelPlanner\SWTP.Infra.Test\bin\Debug\netcoreapp2.1\SWTP.Infra.Test.pdb
+C:\projetos\Kneat Software\StarWarsTravelPlanner\SWTP.Infra.Test\obj\Debug\netcoreapp2.1\SWTP.Infra.Test.csprojAssemblyReference.cache
+C:\projetos\Kneat Software\StarWarsTravelPlanner\SWTP.Infra.Test\obj\Debug\netcoreapp2.1\SWTP.Infra.Test.csproj.CoreCompileInputs.cache
+C:\projetos\Kneat Software\StarWarsTravelPlanner\SWTP.Infra.Test\obj\Debug\netcoreapp2.1\SWTP.Infra.Test.AssemblyInfoInputs.cache
+C:\projetos\Kneat Software\StarWarsTravelPlanner\SWTP.Infra.Test\obj\Debug\netcoreapp2.1\SWTP.Infra.Test.AssemblyInfo.cs
+C:\projetos\Kneat Software\StarWarsTravelPlanner\SWTP.Infra.Test\obj\Debug\netcoreapp2.1\SWTP.Infra.Test.dll
+C:\projetos\Kneat Software\StarWarsTravelPlanner\SWTP.Infra.Test\obj\Debug\netcoreapp2.1\SWTP.Infra.Test.pdb

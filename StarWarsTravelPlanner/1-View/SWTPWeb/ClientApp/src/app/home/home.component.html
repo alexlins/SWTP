@@ -1,0 +1,30 @@
+<h1>Star Wars Travel Planner</h1>
+
+Please enter the distance:
+<input #distance type="number" (keyup.enter)="FetchStops(distance.value)"
+       (blur)="FetchStops(distance.value); ditance.value=''">
+<button (click)="FetchStops(distance.value)">Get Stops</button>
+<br />
+<br />
+<div *ngIf="starShipStops" style="padding-top:20px;padding-bottom:20px">
+  <h3>List View Mode</h3>
+  <p *ngFor="let starShipStop of starShipStops">{{ starShipStop.name }}: {{ starShipStop.stops }}</p>
+</div>
+
+<div *ngIf="starShipStops">
+  <h3>Table View Mode</h3>
+  <table class='table' *ngIf="starShipStops">
+    <thead>
+      <tr>
+        <th>StarShip</th>
+        <th>Stops</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let starShipStop of starShipStops">
+        <td>{{ starShipStop.name }}</td>
+        <td>{{ starShipStop.stops }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

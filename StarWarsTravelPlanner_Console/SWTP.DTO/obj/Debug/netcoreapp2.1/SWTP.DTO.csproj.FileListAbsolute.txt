@@ -1,0 +1,9 @@
+C:\projetos\Kneat Software\StarWarsTravelPlanner_Console\SWTP.DTO\bin\Debug\netcoreapp2.1\SWTP.DTO.deps.json
+C:\projetos\Kneat Software\StarWarsTravelPlanner_Console\SWTP.DTO\bin\Debug\netcoreapp2.1\SWTP.DTO.dll
+C:\projetos\Kneat Software\StarWarsTravelPlanner_Console\SWTP.DTO\bin\Debug\netcoreapp2.1\SWTP.DTO.pdb
+C:\projetos\Kneat Software\StarWarsTravelPlanner_Console\SWTP.DTO\obj\Debug\netcoreapp2.1\SWTP.DTO.csprojAssemblyReference.cache
+C:\projetos\Kneat Software\StarWarsTravelPlanner_Console\SWTP.DTO\obj\Debug\netcoreapp2.1\SWTP.DTO.csproj.CoreCompileInputs.cache
+C:\projetos\Kneat Software\StarWarsTravelPlanner_Console\SWTP.DTO\obj\Debug\netcoreapp2.1\SWTP.DTO.AssemblyInfoInputs.cache
+C:\projetos\Kneat Software\StarWarsTravelPlanner_Console\SWTP.DTO\obj\Debug\netcoreapp2.1\SWTP.DTO.AssemblyInfo.cs
+C:\projetos\Kneat Software\StarWarsTravelPlanner_Console\SWTP.DTO\obj\Debug\netcoreapp2.1\SWTP.DTO.dll
+C:\projetos\Kneat Software\StarWarsTravelPlanner_Console\SWTP.DTO\obj\Debug\netcoreapp2.1\SWTP.DTO.pdb

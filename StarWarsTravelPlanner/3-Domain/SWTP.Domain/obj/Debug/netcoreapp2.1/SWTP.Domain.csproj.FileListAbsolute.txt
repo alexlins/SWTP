@@ -1,0 +1,9 @@
+C:\projetos\Kneat Software\StarWarsTravelPlanner\3-Domain\SWTP.Domain\bin\Debug\netcoreapp2.1\SWTP.Domain.deps.json
+C:\projetos\Kneat Software\StarWarsTravelPlanner\3-Domain\SWTP.Domain\bin\Debug\netcoreapp2.1\SWTP.Domain.dll
+C:\projetos\Kneat Software\StarWarsTravelPlanner\3-Domain\SWTP.Domain\bin\Debug\netcoreapp2.1\SWTP.Domain.pdb
+C:\projetos\Kneat Software\StarWarsTravelPlanner\3-Domain\SWTP.Domain\obj\Debug\netcoreapp2.1\SWTP.Domain.csprojAssemblyReference.cache
+C:\projetos\Kneat Software\StarWarsTravelPlanner\3-Domain\SWTP.Domain\obj\Debug\netcoreapp2.1\SWTP.Domain.csproj.CoreCompileInputs.cache
+C:\projetos\Kneat Software\StarWarsTravelPlanner\3-Domain\SWTP.Domain\obj\Debug\netcoreapp2.1\SWTP.Domain.AssemblyInfoInputs.cache
+C:\projetos\Kneat Software\StarWarsTravelPlanner\3-Domain\SWTP.Domain\obj\Debug\netcoreapp2.1\SWTP.Domain.AssemblyInfo.cs
+C:\projetos\Kneat Software\StarWarsTravelPlanner\3-Domain\SWTP.Domain\obj\Debug\netcoreapp2.1\SWTP.Domain.dll
+C:\projetos\Kneat Software\StarWarsTravelPlanner\3-Domain\SWTP.Domain\obj\Debug\netcoreapp2.1\SWTP.Domain.pdb

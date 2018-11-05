@@ -1,0 +1,12 @@
+C:\projetos\Kneat Software\StarWarsTravelPlanner\4-Infra\SWTP.Infra\bin\Debug\netcoreapp2.1\SWTP.Infra.deps.json
+C:\projetos\Kneat Software\StarWarsTravelPlanner\4-Infra\SWTP.Infra\bin\Debug\netcoreapp2.1\SWTP.Infra.dll
+C:\projetos\Kneat Software\StarWarsTravelPlanner\4-Infra\SWTP.Infra\obj\Debug\netcoreapp2.1\SWTP.Infra.csprojAssemblyReference.cache
+C:\projetos\Kneat Software\StarWarsTravelPlanner\4-Infra\SWTP.Infra\obj\Debug\netcoreapp2.1\SWTP.Infra.csproj.CoreCompileInputs.cache
+C:\projetos\Kneat Software\StarWarsTravelPlanner\4-Infra\SWTP.Infra\obj\Debug\netcoreapp2.1\SWTP.Infra.AssemblyInfoInputs.cache
+C:\projetos\Kneat Software\StarWarsTravelPlanner\4-Infra\SWTP.Infra\obj\Debug\netcoreapp2.1\SWTP.Infra.AssemblyInfo.cs
+C:\projetos\Kneat Software\StarWarsTravelPlanner\4-Infra\SWTP.Infra\bin\Debug\netcoreapp2.1\SWTP.Infra.pdb
+C:\projetos\Kneat Software\StarWarsTravelPlanner\4-Infra\SWTP.Infra\bin\Debug\netcoreapp2.1\SWTP.Domain.dll
+C:\projetos\Kneat Software\StarWarsTravelPlanner\4-Infra\SWTP.Infra\bin\Debug\netcoreapp2.1\SWTP.Domain.pdb
+C:\projetos\Kneat Software\StarWarsTravelPlanner\4-Infra\SWTP.Infra\obj\Debug\netcoreapp2.1\SWTP.Infra.csproj.CopyComplete
+C:\projetos\Kneat Software\StarWarsTravelPlanner\4-Infra\SWTP.Infra\obj\Debug\netcoreapp2.1\SWTP.Infra.dll
+C:\projetos\Kneat Software\StarWarsTravelPlanner\4-Infra\SWTP.Infra\obj\Debug\netcoreapp2.1\SWTP.Infra.pdb

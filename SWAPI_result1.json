@@ -1,0 +1,206 @@
+[
+    {
+        "starShipCode": 47,
+        "name": "AA-9 Coruscant freighter",
+        "stops": -1,
+        "message": "Information not available"
+    },
+    {
+        "starShipCode": 49,
+        "name": "H-type Nubian yacht",
+        "stops": -1,
+        "message": "Information not available"
+    },
+    {
+        "starShipCode": 48,
+        "name": "Jedi starfighter",
+        "stops": -1,
+        "message": "Information not available"
+    },
+    {
+        "starShipCode": 59,
+        "name": "Trade Federation cruiser",
+        "stops": -1,
+        "message": "Information not available"
+    },
+    {
+        "starShipCode": 43,
+        "name": "J-type diplomatic barge",
+        "stops": -1,
+        "message": "Information not available"
+    },
+    {
+        "starShipCode": 41,
+        "name": "Scimitar",
+        "stops": -1,
+        "message": "Information not available"
+    },
+    {
+        "starShipCode": 58,
+        "name": "Solar Sailer",
+        "stops": -1,
+        "message": "Information not available"
+    },
+    {
+        "starShipCode": 61,
+        "name": "Theta-class T-2c shuttle",
+        "stops": -1,
+        "message": "Information not available"
+    },
+    {
+        "starShipCode": 32,
+        "name": "Droid control ship",
+        "stops": -1,
+        "message": "Information not available"
+    },
+    {
+        "starShipCode": 63,
+        "name": "Republic attack cruiser",
+        "stops": -1,
+        "message": "Information not available"
+    },
+    {
+        "starShipCode": 77,
+        "name": "T-70 X-wing fighter",
+        "stops": -1,
+        "message": "Information not available"
+    },
+    {
+        "starShipCode": 65,
+        "name": "Jedi Interceptor",
+        "stops": -1,
+        "message": "Information not available"
+    },
+    {
+        "starShipCode": 64,
+        "name": "Naboo star skiff",
+        "stops": -1,
+        "message": "Information not available"
+    },
+    {
+        "starShipCode": 74,
+        "name": "Belbullab-22 starfighter",
+        "stops": -1,
+        "message": "Information not available"
+    },
+    {
+        "starShipCode": 75,
+        "name": "V-wing",
+        "stops": -1,
+        "message": "Information not available"
+    },
+    {
+        "starShipCode": 15,
+        "name": "Executor",
+        "stops": 0,
+        "message": "ok"
+    },
+    {
+        "starShipCode": 23,
+        "name": "EF76 Nebulon-B escort frigate",
+        "stops": 0,
+        "message": "ok"
+    },
+    {
+        "starShipCode": 5,
+        "name": "Sentinel-class landing craft",
+        "stops": 19,
+        "message": "ok"
+    },
+    {
+        "starShipCode": 52,
+        "name": "Republic Assault ship",
+        "stops": -1,
+        "message": "Information not available"
+    },
+    {
+        "starShipCode": 27,
+        "name": "Calamari Cruiser",
+        "stops": 0,
+        "message": "ok"
+    },
+    {
+        "starShipCode": 9,
+        "name": "Death Star",
+        "stops": 0,
+        "message": "ok"
+    },
+    {
+        "starShipCode": 28,
+        "name": "A-wing",
+        "stops": 49,
+        "message": "ok"
+    },
+    {
+        "starShipCode": 29,
+        "name": "B-wing",
+        "stops": 65,
+        "message": "ok"
+    },
+    {
+        "starShipCode": 11,
+        "name": "Y-wing",
+        "stops": 74,
+        "message": "ok"
+    },
+    {
+        "starShipCode": 12,
+        "name": "X-wing",
+        "stops": 59,
+        "message": "ok"
+    },
+    {
+        "starShipCode": 3,
+        "name": "Star Destroyer",
+        "stops": 0,
+        "message": "ok"
+    },
+    {
+        "starShipCode": 13,
+        "name": "TIE Advanced x1",
+        "stops": 79,
+        "message": "ok"
+    },
+    {
+        "starShipCode": 21,
+        "name": "Slave 1",
+        "stops": 19,
+        "message": "ok"
+    },
+    {
+        "starShipCode": 22,
+        "name": "Imperial shuttle",
+        "stops": 13,
+        "message": "ok"
+    },
+    {
+        "starShipCode": 2,
+        "name": "CR90 corvette",
+        "stops": 0,
+        "message": "ok"
+    },
+    {
+        "starShipCode": 17,
+        "name": "Rebel transport",
+        "stops": 11,
+        "message": "ok"
+    },
+    {
+        "starShipCode": 66,
+        "name": "arc-170",
+        "stops": 83,
+        "message": "ok"
+    },
+    {
+        "starShipCode": 31,
+        "name": "Republic Cruiser",
+        "stops": -1,
+        "message": "Information not available"
+    },
+    {
+        "starShipCode": 39,
+        "name": "Naboo fighter",
+        "stops": -1,
+        "message": "Information not available"
+    }
+]
